@@ -1,0 +1,44 @@
+.tableContainer {
+    width: 96%;
+    background-color: #283046 ;
+    margin: 25px;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.tableContainer thead {
+    background-color: #161d32;
+    padding: 15px;
+}
+
+.optionSection {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.optionSection select {
+    background-color: transparent;
+    color: white;
+}
+
+.optionSection select option {
+    background-color: #161d32;
+}
+
+.showEntries {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.showleftmargin {
+ 
+    margin-right: 10px;
+}

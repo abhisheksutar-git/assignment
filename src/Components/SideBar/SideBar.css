@@ -1,0 +1,41 @@
+.container {
+    background-color: var(--lightBlue);
+}
+
+.innerBackGround {
+    padding: 10px;
+}
+
+.profile_section {
+    display: flex;
+    justify-content: space-between;
+    height: 45px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.logoSec {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    font-size: 45px;
+}
+
+
+
+.tabsCon {
+    background-color: red;
+}
+
+.tabs {
+
+    height: 50px;
+    
+}
+
+
+

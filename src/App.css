@@ -1,0 +1,25 @@
+:root {
+  --lightBlue : #283046;
+  --darBlue : #161d32 ;
+  --selectionColor : #615ac8 ;
+
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+
+
+}
+
+.main-background {
+  display: grid;
+  grid-template-columns: 12rem auto ;
+  background-color: var(--darBlue);
+  height: 100vw;
+}
+
+
+

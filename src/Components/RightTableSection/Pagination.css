@@ -1,0 +1,36 @@
+.listing {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+.listing nav ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    width: 10px;
+    height: 10px;
+    
+}
+
+
+.numbers {
+    background-color: #161d32;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listing nav ul li a {
+    text-decoration: none;
+    color: white;
+    background-color: #161d32;
+    
+}
+
+
+
+
+

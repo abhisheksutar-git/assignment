@@ -1,0 +1,36 @@
+.first-inner-section {
+    width: 96%;
+    height: 200px;
+    background-color: var(--lightBlue);
+    margin: 25px 25px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardContainer {
+    display: flex;
+    gap: 30px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.iConPart i {
+    font-size: 45px;
+}
+
+.textPart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+
+.textPart p {
+    font-size: 10px;
+    margin-top: -10px;
+   
+}
