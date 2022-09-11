@@ -18,7 +18,6 @@
   display: grid;
   grid-template-columns: 12rem auto ;
   background-color: var(--darBlue);
-  height: 100vw;
 }
 
 
